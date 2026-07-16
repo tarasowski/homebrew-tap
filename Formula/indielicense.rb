@@ -8,8 +8,8 @@
 class Indielicense < Formula
   desc "Offline license keys for indie Mac apps. No server, ever"
   homepage "https://github.com/tarasowski/indielicence"
-  url "https://github.com/tarasowski/indielicence/releases/download/v1.2.0/indielicense-v1.2.0-macos-universal.tar.gz"
-  sha256 "beab6dc7a9ba452cac43a032f08198055d04159ad177a6cecf7f21e1ee440954"
+  url "https://github.com/tarasowski/indielicence/releases/download/v1.3.0/indielicense-v1.3.0-macos-universal.tar.gz"
+  sha256 "6869e83c91b923a6e9df8da1332211c54badbfe8fba660ee0676fe34f580fd52"
   license "MIT"
 
   depends_on :macos
